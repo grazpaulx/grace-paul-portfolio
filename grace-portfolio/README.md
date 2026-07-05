@@ -1,4 +1,4 @@
-# Grace Paul — Portfolio
+# Grace Paul — Portfolio 1
 
 A three-page portfolio built with Next.js (App Router):
 
