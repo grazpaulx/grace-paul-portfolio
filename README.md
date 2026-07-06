@@ -63,6 +63,13 @@ placeholder password in production.**
 4. Redeploy — done.
 
 
-Full setup notes are in the codebase's internal docs / comments.
+## ✏️ Updating Content
 
-## 📂 Project Structure
+All personal content (skills, projects, experience, education, etc.) lives
+in `lib/data.js` — edit that file to update anything shown on the site.
+Internship day-by-day data lives in `lib/internshipLog.js`, and can also be
+edited live via the Admin calendar once deployed.
+
+---
+
+Built with **[Claude](https://claude.ai)** by Anthropic.
