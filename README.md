@@ -1,4 +1,4 @@
-# Grace Paul — Portfolio (Claude)
+# Grace Paul — Portfolio 
 
 A personal portfolio website for **Grace Paul**, B.Tech Computer Science
 Engineering student (Minor: Electronics & Communication) at Christ College
